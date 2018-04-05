@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab_1</string>
+    <string name="name">Nome</string>
+    <string name="choose_image">Scegli Immagine</string>
+    <string name="email">Email</string>
+    <string name="Bio">Bio</string>
+    <string name="showProfile">Mostra Profilo</string>
+    <string name="editProfile">Modifica Profilo</string>
+    <string name="default_name">Il tuo nome</string>
+    <string name="default_email">La tua e-mail</string>
+    <string name="default_bio">Questo è un profilo di default, puoi modificarlo con il pulsante Modifica</string>
+    <string name="showProfileActivity">Il tuo profilo</string>
+    <string name="editProfileActivity">Modifica profilo</string>
+    <string name="default_location">La tua città</string>
+    <string name="default_phone_number">Il tuo numero di telefono</string>
+    <string name="default_birthday">Il tuo compleanno</string>
+    <string name="birthday">Data di nascita</string>
+    <string name="phone_number">Numero di telefono</string>
+    <string name="location">Città, Stato</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab_1</string>
+    <string name="name">Name</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="email">Email</string>
+    <string name="Bio">Bio</string>
+    <string name="birthday">Birthday</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location">City, Country</string>
+    <string name="showProfile">Show Profile</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="default_name">Your name</string>
+    <string name="default_email">Your e-mail</string>
+    <string name="default_bio">This is a default profile, you can modify it in the edit section</string>
+    <string name="default_location">Your city</string>
+    <string name="default_phone_number">Your phone number</string>
+    <string name="default_birthday">Your birthday</string>
+    <string name="showProfileActivity">Your profile</string>
+    <string name="editProfileActivity">Edit profile</string>
+
+</resources>
